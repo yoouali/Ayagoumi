@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 Nice to see you.</h1>
-<p>Welcome to my page! </br> My name is Ayoub, Co-Founder of Enigma Leet and 👨🏽‍💻 I’m currently studying at  1337 Coding school
+<p>Welcome to my page! </br> My name is Youssef, 💻 I’m currently studying at  1337 Coding school
 
 <h3>Things I code with</h3>
 <p>
@@ -13,11 +13,11 @@
   <img alt="TailwindCss" src="https://img.shields.io/badge/TailwindcSS-red?style=flat-square&logo=TailwindCss&logoColor=white" />
 </p>
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ayagoumi)](https://github.com/Ayagoumi)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=yoouali)](https://github.com/yoouali)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayagoumi&theme=merko)](https://github.com/Ayagoumi)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoouali&theme=merko)](https://github.com/yoouali)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=demo&theme=merko)](https://github.com/Ayagoumi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoouali&layout=demo&theme=merko)](https://github.com/yoouali)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,11 +28,10 @@
 </a>
 -->
 
-- 🔭 Co-Founder of [Enigma Leet]
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/AyoubAgoumi?style=social)](https://twitter.com/AyoubAgoumi)
+<!--[![Twitter: imthepk](https://img.shields.io/twitter/follow/AyoubAgoumi?style=social)](https://twitter.com/AyoubAgoumi)
 [![GitHub Ysrbolles](https://img.shields.io/github/followers/Ayagoumi?style=social)](https://github.com/Ayagoumi)
-[![Linkedin: imthepk](https://img.shields.io/badge/-Ayagoumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agoumi-ayoub-07998418a/)](https://www.linkedin.com/in/agoumi-ayoub-07998418a/)
+[![Linkedin: imthepk](https://img.shields.io/badge/-Ayagoumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agoumi-ayoub-07998418a/)](https://www.linkedin.com/in/agoumi-ayoub-07998418a/)-->
 
 
